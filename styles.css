@@ -10,7 +10,7 @@ body {
 header {
     text-align: center;
     padding: 2rem;
-    background: linear-gradient(90deg, #007BFF, #6610f2);
+    background: linear-gradient(90deg, #dfdd6d, #e9a932);
     color: white;
 }
 
@@ -34,7 +34,7 @@ header h1 {
     width: 150px;
     height: 150px;
     border-radius: 50%;
-    border: 2px solid #007BFF;
+    border: 2px solid #e9ae40;
 }
 
 .projects {
